@@ -12,7 +12,7 @@ The objective is to predict the next-day close direction (binomial: Up=1, Down=0
 - **Statistical Rigor** 
 
 ## Repository Structure
-- `singularityx.ipynb`: Core research notebook.
+- `singularity.ipynb`: Core research notebook.
 - `Singularity Assignment.pdf`: 6 page research report
 - `requirements.txt`: Python dependencies
 
